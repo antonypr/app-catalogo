@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.apr"
+version = "1.0.0">
+
+<name>PhoneGap-Antonio</name>
+
+<description>
+Aplicacion que muestra un Catalogo de Productos
+</description>
+
+<author href="https://example.com" email="antony19_95@hotmail.com">
+Antonio Perez
+</author>
+
+<icon src="img/moto.png" gap:density="ldpi" gap:platform="android" />
+
+
+</widget>
